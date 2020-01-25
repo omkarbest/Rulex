@@ -67,6 +67,7 @@ rb.createTask(name = "concat6_cpy", category = "concat", position = "(dp1\nVcoor
 rb.createTask(name = "concat7", category = "concat", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF2090\nsVx\nF8800\nsVz\nF322\nss.", status = "2", priority = "0")
 rb.createTask(name = "concat8", category = "concat", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF4345\nsVx\nF2530\nsVz\nF331\nss.", status = "2", priority = "0")
 rb.createTask(name = "concat9", category = "concat", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF2420\nsVx\nF10670\nsVz\nF352\nss.", status = "2", priority = "0")
+rb.createTask(name = "condimport1", category = "conditionalimport", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF2530\nsVx\nF550\nsVz\nF635\nss.", status = "0", priority = "0")
 rb.createTask(name = "dataman1", category = "datamanager", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF6380\nsVx\nF6985\nsVz\nF171\nss.", status = "2", priority = "0")
 rb.createTask(name = "dataman10", category = "datamanager", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF2365\nsVx\nF1980\nsVz\nF273\nss.", status = "2", priority = "0")
 rb.createTask(name = "dataman100", category = "datamanager", position = "(dp1\nVcoord\np2\n(dp3\nVy\nF6215\nsVx\nF8525\nsVz\nF569\nss.", status = "2", priority = "0")
